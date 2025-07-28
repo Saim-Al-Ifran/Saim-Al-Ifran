@@ -9,10 +9,17 @@ I'm a passionate full-stack developer with expertise in building scalable and ma
 ## 🚀 Tech Stack & Skills
 
 <div align="center">
+  <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="60" alt="PHP" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="C++" />
+  <img width="12" />
+
+  <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="React" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redux" height="60" alt="Redux Toolkit" />
@@ -21,18 +28,32 @@ I'm a passionate full-stack developer with expertise in building scalable and ma
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="Bootstrap" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="Firebase" />
+  <img src="https://skillicons.dev/icons?i=sass" height="60" alt="SASS" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="60" alt="jQuery" />
+  <img width="12" />
+
+  <!-- Backend -->
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="Node.js" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="60" alt="Express.js" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" height="60" alt="Mongoose" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="Firebase" />
+  <img width="12" />
+
+  <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="MongoDB" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redis" height="60" alt="Redis" />
   <img width="12" />
+
+  <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="Docker" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git" />
@@ -41,6 +62,7 @@ I'm a passionate full-stack developer with expertise in building scalable and ma
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="60" alt="Postman" />
 </div>
+
 
 
 ---
