@@ -6,7 +6,7 @@ I'm a passionate full-stack developer with expertise in building scalable and ma
 
 ---
 
-## 🚀 Tech Stack & Skills
+## 🚀 Tech Stack & Tools
 
 <div align="center">
   <!-- Languages -->
@@ -54,6 +54,8 @@ I'm a passionate full-stack developer with expertise in building scalable and ma
   <img width="12" />
 
   <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="VS Code" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="Docker" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git" />
@@ -62,6 +64,7 @@ I'm a passionate full-stack developer with expertise in building scalable and ma
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="60" alt="Postman" />
 </div>
+
 
 
 
