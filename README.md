@@ -8,38 +8,40 @@ I'm a passionate full-stack developer with expertise in building scalable and ma
 
 ## 🚀 Tech Stack & Skills
 
-**Languages:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript) 
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php) 
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="React" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redux" height="60" alt="Redux Toolkit" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="TailwindCSS" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="Bootstrap" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="Firebase" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="Node.js" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="60" alt="Express.js" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="MongoDB" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="60" alt="Redis" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="Docker" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="GitHub" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="Postman" />
+</div>
 
-**Frontend:**  
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) 
-![Redux Toolkit](https://img.shields.io/badge/-Redux--Toolkit-black?style=flat-square&logo=redux) 
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css) 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap) 
-![Firebase Auth](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
-
-**Backend:**  
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) 
-![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express) 
-![REST API](https://img.shields.io/badge/-REST--API-black?style=flat-square) 
-![JWT](https://img.shields.io/badge/-JWT-black?style=flat-square&logo=json-web-tokens) 
-![Firebase Admin SDK](https://img.shields.io/badge/-Firebase--Admin-black?style=flat-square&logo=firebase)
-
-**Databases & Tools:**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) 
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis) 
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) 
-![Cloudinary](https://img.shields.io/badge/-Cloudinary-black?style=flat-square&logo=cloudinary)
-
-**Other Tools:**  
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) 
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github) 
-![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman) 
-![Swagger](https://img.shields.io/badge/-Swagger-black?style=flat-square&logo=swagger) 
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
 ---
 
