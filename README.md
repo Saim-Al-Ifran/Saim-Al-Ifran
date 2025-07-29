@@ -104,12 +104,9 @@ I'm a passionate full-stack developer with expertise in building scalable and ma
 
 ---
 
-## 🎓 Education
-**B.Sc in Computer Science & Engineering (CSE)**  
-International Standard University  
-Expected Graduation: 2027
+ 
 
----
+ 
 
 <!-- Optional Fun Section -->
 <!--
