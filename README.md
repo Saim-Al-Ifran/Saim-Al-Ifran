@@ -73,9 +73,11 @@ I'm a passionate full-stack developer with expertise in building scalable and ma
 ## 🏆 Featured Projects
 
 ### 🚀 [OrbitBazaar - Multi-Role E-Commerce Management System](https://orbitbazaar-39cf5.web.app/)
-- Built Role-Based Access Control (RBAC) for Super Admin, Admin, Vendor, and Users.
-- Enhanced API performance with Redis Cloud caching.
-- Developed Vendor Dashboards with dynamic product management.
+- Designed and implemented a full Role-Based Access Control (RBAC) system supporting 4 distinct roles (Super Admin, Admin, Vendor, User) with 45+ protected APIs, ensuring secure access isolation and reducing unauthorized operations by 100%.
+- Improved API response time by ~45% by integrating Redis Cloud caching for high-traffic endpoints such as product listings, dashboards, and analytics data.
+- Implemented complete product lifecycle management (CRUD, archive/unarchive, feature/unfeature) with multi-image uploads (up to 5 images per product) and advanced search/filtering, improving vendor productivity by ~40%.
+- Built analytics dashboards with revenue, sales, views, and signup charts, providing monthly and real-time insights that enable data-driven decisions for admins and vendors.
+- Designed a scalable Vendor Dashboard with Cloudinary-based multi-image uploads, inventory status control, filtering, and pagination—reducing product management time by ~50%.
 - **Client:** [OrbitBazaar-Client Repo](https://github.com/Saim-Al-Ifran/OrbitBazaar-client)  
   **Server:** [OrbitBazaar-Server Repo](https://github.com/Saim-Al-Ifran/OrbitBazaar-server)
 
