@@ -84,9 +84,10 @@ I'm a passionate full-stack developer with expertise in building scalable and ma
 ---
 
 ### 🎫 [Event Management System (EMS)](https://event-management-system-26d04.web.app/)
-- Role-based access for Super-Admins, Admins, and Users.
-- Integrated Google OAuth & JWT authentication.
-- Dynamic admin dashboards for managing categories, events, bookings, and payments.
+- Architected a role-based admin platform supporting Super-Admin, Admin, and User roles with 25+ secured endpoints, enabling centralized control over users, events, bookings, and platform settings.
+- Developed a scalable event lifecycle system managing hundreds of events and bookings, featuring advanced search, filter, sort, and pagination, improving admin operational efficiency by ~40%.
+- Integrated Firebase Google OAuth + JWT, streamlining authentication and improving successful login flow by ~25%.
+- Built a full-featured admin configuration module allowing real-time updates to site branding (logo, social links, footer, site metadata) without redeployment, reducing content update turnaround to minutes instead of hours.
 - **Client:** [EMS-Client Repo](https://github.com/Saim-Al-Ifran/event-management-system-client)  
   **Server:** [EMS-Server Repo](https://github.com/Saim-Al-Ifran/event-management-system-server)
 
